@@ -10,13 +10,13 @@ Sou desenvolvedor web há alguns anos, e desde então venho trabalhando com dive
 
 Aqui estão algumas das tecnologias que tenho mais experiência:
 
-![React JS Logo](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K)
+![React JS Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
 - React JS: Biblioteca JavaScript para construção de interfaces de usuário.
 
 ![Firebase Logo](https://firebase.google.com/downloads/brand-guidelines/SVG/logo-logomark.svg)
 - Firebase: Plataforma de desenvolvimento de aplicativos móveis e web fornecida pelo Google.
 
-![Chakra UI Logo](https://chakra-ui.com/logo.svg)
+![Chakra UI Logo](https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true)
 - Chakra UI: Biblioteca de componentes React para criação de interfaces de usuário acessíveis.
 
 ## Projetos
