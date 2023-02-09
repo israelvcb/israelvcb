@@ -10,14 +10,15 @@ Sou desenvolvedor web há alguns anos, e desde então venho trabalhando com dive
 
 Aqui estão algumas das tecnologias que tenho mais experiência:
 
-![React JS Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100"/>
 - React JS: Biblioteca JavaScript para construção de interfaces de usuário.
 
-![Firebase Logo](https://firebase.google.com/downloads/brand-guidelines/SVG/logo-logomark.svg)
+<img src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-logomark.svg" width="100"/>
 - Firebase: Plataforma de desenvolvimento de aplicativos móveis e web fornecida pelo Google.
 
-![Chakra UI Logo](https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true)
+<img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" width="100"/>
 - Chakra UI: Biblioteca de componentes React para criação de interfaces de usuário acessíveis.
+
 
 ## Projetos
 
