@@ -8,7 +8,7 @@ Sou desenvolvedor web há alguns anos, e desde então venho trabalhando com dive
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=israelvcb&show_icons=true)
 
-## 🥷 Tecnologias que domino
+## 👨‍💻 Tecnologias que domino
 
 Aqui estão algumas das tecnologias que tenho mais experiência:
 
