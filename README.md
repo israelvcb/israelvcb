@@ -6,7 +6,7 @@ Eu sou um desenvolvedor apaixonado por tecnologias web, especialmente o React JS
 
 Sou desenvolvedor web há alguns anos, e desde então venho trabalhando com diversas tecnologias e ferramentas, sempre buscando aprender e aprimorar minhas habilidades. Acredito na importância de se manter atualizado com as novidades do mercado, e por isso sempre estou em busca de novos desafios. Estou no final do curso tecnólogo em ADS.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=israelvcb&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=israelvcb&show_icons=true&count_private=true)
 
 ## 👨‍💻 Tecnologias que domino
 
