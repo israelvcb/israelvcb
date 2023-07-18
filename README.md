@@ -10,6 +10,8 @@ Sou desenvolvedor web há alguns anos, e desde então venho trabalhando com dive
 
 Aqui estão algumas das tecnologias que tenho mais experiência:
 
+- Next JS: Biblioteca JavaScript para construção de interfaces de usuário.
+- 
 - React JS: Biblioteca JavaScript para construção de interfaces de usuário.
 
 - Nest Js: Biblioteca JavaScript para construção de Api's
@@ -19,6 +21,7 @@ Aqui estão algumas das tecnologias que tenho mais experiência:
 - Firebase: Plataforma de desenvolvimento de aplicativos móveis e web fornecida pelo Google.
 
 - Chakra UI: Biblioteca de componentes React para criação de interfaces de usuário acessíveis.
+- Tailwind CSS: Biblioteca de estilização.
 
 ## ✅ Conclusão
 
