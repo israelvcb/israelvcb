@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm a mid-level full-stack developer with extensive experience in various technologies and frameworks. My main focus is building efficient and high-quality web and mobile applications. I'm constantly honing my skills and learning new technologies to tackle the most challenging aspects of development.
+Hello! I'm a pleno-level full-stack developer with extensive experience in various technologies and frameworks. My main focus is building efficient and high-quality web and mobile applications. I'm constantly honing my skills and learning new technologies to tackle the most challenging aspects of development.
 
 ## Technologies and Tools
 
