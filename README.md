@@ -1,29 +1,70 @@
-# Welcome to my GitHub Profile
+# Welcome to my GitHub profile!
 
-I'm a passionate full-stack developer with a focus on web technologies, particularly Next.js, Prisma, React Query, TypeScript, Portainer, Duplicati, Docker, Nest.js, Tailwind CSS, Firebase, and Chakra UI. Here on my profile, you can explore some of the projects I've developed over time.
+## About Me
 
-## 👨 About Me
+Hello! I'm a mid-level full-stack developer with extensive experience in various technologies and frameworks. My main focus is building efficient and high-quality web and mobile applications. I'm constantly honing my skills and learning new technologies to tackle the most challenging aspects of development.
 
-I've been working as a web developer for several years, gaining expertise in various technologies and tools, always seeking to learn and enhance my skills. I believe in staying up-to-date with the latest trends in the industry, which is why I'm constantly looking for new challenges. Currently, I am in the final stages of a technology degree program in ADS (Analysis and Systems Development).
+## Technologies and Tools
 
-## 👨‍💻 Technologies I Master
+Here's a list of the main technologies and tools I work with, along with their functions:
 
-Here are some of the technologies I have extensive experience with:
+### Frontend
 
-- Next.js: A JavaScript library for building user interfaces.
-  
-- React.js: A JavaScript library for building user interfaces.
+- Next.js: A React framework for server-rendered applications that provides features like automatic code splitting, server-side rendering, and efficient routing.
 
-- Nest.js: A JavaScript library for building APIs.
+- React: A popular JavaScript library for building user interfaces, particularly for single-page applications.
 
-- Prisma: An ORM for relational databases that allows writing database queries in an intuitive syntax and automatically generates a database schema and secure query API. It supports PostgreSQL, MySQL, and SQLite and is compatible with various programming languages, including JavaScript/TypeScript and Rust. Prisma is a popular tool for developers looking to simplify working with relational databases in their projects.
+- TypeScript: A superset of JavaScript that adds static typing, helping to catch errors during development and improving code maintainability.
 
-- Firebase: A platform for mobile and web app development provided by Google.
+- React Query: A data-fetching library for React applications that simplifies API calls and state management for asynchronous data.
 
-- Chakra UI: A React component library for creating accessible user interfaces.
+- Chakra UI: A modular and accessible UI component library for React that allows for rapid UI development.
 
-- Tailwind CSS: A utility-first CSS framework for rapid UI development.
+- Tailwind CSS: A utility-first CSS framework that provides pre-defined classes for rapidly building custom UI components.
 
-## ✅ Conclusion
+### Backend
 
-Whether you're interested in collaborating with me or simply want to learn more about my projects, feel free to send me a message or explore my profile here on GitHub. I hope you enjoy what you find!
+- Nest.js: A progressive Node.js framework for building scalable and maintainable server-side applications using TypeScript.
+
+- TypeScript: A superset of JavaScript used on both frontend and backend to add static typing and improve code quality.
+
+- Prisma: An ORM (Object-Relational Mapping) tool that simplifies database access and management with TypeScript support.
+
+- Firebase: A platform provided by Google that offers various backend services, such as authentication, database, and cloud functions, making backend development easier and more scalable.
+
+- PostgreSQL (Postgres): A powerful open-source relational database management system that is known for its reliability and robustness, widely used in web applications.
+
+- Keycloak: An open-source identity and access management solution that provides Single Sign-On (SSO) functionality and secure user authentication for applications.
+
+### DevOps
+
+- Docker: A platform that enables developers to package applications and dependencies into containers, ensuring consistent deployment across different environments.
+
+- Portainer: A web-based GUI for managing Docker containers, making it easier to monitor and administer containerized applications.
+
+- Duplicati: An open-source backup tool that supports encrypted and compressed backups to various cloud storage services.
+
+- Firebase Hosting: Firebase service for hosting web applications, making it simple to deploy and manage web apps.
+
+### Mobile
+
+- React Native: A mobile application framework that allows developers to build cross-platform mobile apps using JavaScript and React.
+
+## Featured Projects
+
+- [SGE - SISTEMA DE GESTÃO DE ESTOQUE](https://github.com/israelvcb/SGE-ESTOQUE): Brief project description and technologies used.
+
+## Contact
+
+Feel free to get in touch with me through the following means:
+
+- Email: israelvcb@hotmail.com
+- LinkedIn: [Israel França](https://br.linkedin.com/in/israel-fran%C3%A7a)
+
+## Contributions
+
+If you're interested in contributing to any of my projects or have an exciting idea to collaborate on, please feel free to open an issue or pull request. I love working as a team and learning from fellow developers!
+
+Thank you for visiting my profile, and don't hesitate to explore my repositories to learn more about my projects and work!
+
+*Note:* This description is subject to updates as new technologies and projects become part of my day-to-day journey.
