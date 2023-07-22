@@ -52,7 +52,7 @@ Here's a list of the main technologies and tools I work with, along with their f
 
 ## Featured Projects
 
-- [SGE - SISTEMA DE GESTÃO DE ESTOQUE](https://github.com/israelvcb/SGE-ESTOQUE): Brief project description and technologies used.
+- [SGE - SISTEMA DE GESTÃO DE ESTOQUE](https://github.com/israelvcb/SGE-ESTOQUE): A complete inventory management system for all branches with input, output, transfer, product reports, audit history and much more.
 
 ## Contact
 
