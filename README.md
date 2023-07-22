@@ -1,28 +1,29 @@
-# Bem-vindo ao meu perfil no GitHub 
+# Welcome to my GitHub Profile
 
-Eu sou um desenvolvedor apaixonado por tecnologias web, especialmente o React JS, Firebase e Chakra UI. Aqui no meu perfil você pode encontrar alguns dos projetos que desenvolvi ao longo do tempo.
+I'm a passionate full-stack developer with a focus on web technologies, particularly Next.js, Prisma, React Query, TypeScript, Portainer, Duplicati, Docker, Nest.js, Tailwind CSS, Firebase, and Chakra UI. Here on my profile, you can explore some of the projects I've developed over time.
 
-## 👨 Sobre mim
+## 👨 About Me
 
-Sou desenvolvedor web há alguns anos, e desde então venho trabalhando com diversas tecnologias e ferramentas, sempre buscando aprender e aprimorar minhas habilidades. Acredito na importância de se manter atualizado com as novidades do mercado, e por isso sempre estou em busca de novos desafios. Estou no final do curso tecnólogo em ADS.
+I've been working as a web developer for several years, gaining expertise in various technologies and tools, always seeking to learn and enhance my skills. I believe in staying up-to-date with the latest trends in the industry, which is why I'm constantly looking for new challenges. Currently, I am in the final stages of a technology degree program in ADS (Analysis and Systems Development).
 
-## 👨‍💻 Tecnologias que domino
+## 👨‍💻 Technologies I Master
 
-Aqui estão algumas das tecnologias que tenho mais experiência:
+Here are some of the technologies I have extensive experience with:
 
-- Next JS: Biblioteca JavaScript para construção de interfaces de usuário.
+- Next.js: A JavaScript library for building user interfaces.
   
-- React JS: Biblioteca JavaScript para construção de interfaces de usuário.
+- React.js: A JavaScript library for building user interfaces.
 
-- Nest Js: Biblioteca JavaScript para construção de Api's
+- Nest.js: A JavaScript library for building APIs.
 
-- Prisma: é um ORM para bancos de dados relacionais que permite escrever consultas de banco de dados em uma sintaxe intuitiva e gerar um esquema de banco de dados e uma API de consulta segura automaticamente. Ele suporta PostgreSQL, MySQL e SQLite, e é compatível com várias linguagens de programação, incluindo JavaScript / TypeScript e Rust. É uma ferramenta popular para desenvolvedores que desejam simplificar o trabalho com bancos de dados relacionais em seus projetos.
+- Prisma: An ORM for relational databases that allows writing database queries in an intuitive syntax and automatically generates a database schema and secure query API. It supports PostgreSQL, MySQL, and SQLite and is compatible with various programming languages, including JavaScript/TypeScript and Rust. Prisma is a popular tool for developers looking to simplify working with relational databases in their projects.
 
-- Firebase: Plataforma de desenvolvimento de aplicativos móveis e web fornecida pelo Google.
+- Firebase: A platform for mobile and web app development provided by Google.
 
-- Chakra UI: Biblioteca de componentes React para criação de interfaces de usuário acessíveis.
-- Tailwind CSS: Biblioteca de estilização.
+- Chakra UI: A React component library for creating accessible user interfaces.
 
-## ✅ Conclusão
+- Tailwind CSS: A utility-first CSS framework for rapid UI development.
 
-Se você está interessado em trabalhar comigo ou apenas quer saber mais sobre meus projetos, fique à vontade para me enviar uma mensagem ou dar uma olhada em meu perfil aqui no GitHub. Espero que goste do que vê!
+## ✅ Conclusion
+
+Whether you're interested in collaborating with me or simply want to learn more about my projects, feel free to send me a message or explore my profile here on GitHub. I hope you enjoy what you find!
